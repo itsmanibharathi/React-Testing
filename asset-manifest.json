@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/itsmanibharathi/React-Testing.git/static/css/main.073c9b0a.css",
+    "main.js": "/itsmanibharathi/React-Testing.git/static/js/main.b2b8c162.js",
+    "static/js/787.67b3a07b.chunk.js": "/itsmanibharathi/React-Testing.git/static/js/787.67b3a07b.chunk.js",
+    "static/media/logo2.png": "/itsmanibharathi/React-Testing.git/static/media/logo2.ef803132d72627497b6d.png",
+    "index.html": "/itsmanibharathi/React-Testing.git/index.html",
+    "main.073c9b0a.css.map": "/itsmanibharathi/React-Testing.git/static/css/main.073c9b0a.css.map",
+    "main.b2b8c162.js.map": "/itsmanibharathi/React-Testing.git/static/js/main.b2b8c162.js.map",
+    "787.67b3a07b.chunk.js.map": "/itsmanibharathi/React-Testing.git/static/js/787.67b3a07b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b2b8c162.js"
+  ]
+}
