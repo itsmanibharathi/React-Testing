@@ -1,15 +1,15 @@
 import logo from './logo2.png';
 import './App.css';
 import { Home } from './component/Home';
-import data from '../data.json'
-
+// import {Data} from './data';
+const Data=require('./data.json')
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
-        <p>datajson{data.message}
+        <p>datajson {Data.message}
           Automation Testing with React
         </p>
         <a
@@ -17,7 +17,7 @@ function App() {
           href="https://github.com/itsmanibharathi"
           target="_blank"
           rel="noopener noreferrer"
-        > By itsmanibharathi gitserver
+        > By itsmanibharathi 
         </a>
       </header>
       <Home />
