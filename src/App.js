@@ -15,7 +15,7 @@ function App() {
           href="https://github.com/itsmanibharathi"
           target="_blank"
           rel="noopener noreferrer"
-        > By itsmanibharathi
+        > By itsmanibharathi commit by nodejs
         </a>
       </header>
       <Home />
